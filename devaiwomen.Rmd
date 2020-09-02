@@ -1,0 +1,21 @@
+---
+title: "O Viés do Observador no Machine Learning"
+author: "Alissa Caresia Munerato"
+date: "12/09/2020"
+output:
+  xaringan::moon_reader:
+    css: ["hygge", "default-fonts", "my-footer.css"]
+    lib_dir: libs
+
+---
+
+# O que é o Viés do Observador?
+
+
+- é isso aqui
+
+<div class="my-footer"><span>alissamunerato@gmail.com    
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+&emsp;&emsp;&emsp;12/09/2020</span></div> 
+
+---
