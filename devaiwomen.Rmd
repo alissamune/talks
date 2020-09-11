@@ -9,10 +9,231 @@ output:
 
 ---
 
-# O que é o Viés do Observador?
+### Prazer!
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Ropa Sans">
+<span class="emphasized">&nbsp;Sobre mim&nbsp;</span>
+
+- Alissa Caresia Munerato
+- 27 anos
+- Estudei Neurociência na UFABC
+- Atualmente curso Análise e Desenvolvimento de Sistemas na Impacta
 
 
-- é isso aqui
+<span class="emphasized">&nbsp;Meu trabalho&nbsp;</span>
+
+- Marketing Digital
+- Perfil do Consumidor
+- Análises de Performance
+
+<div class="my-footer"><span>alissamunerato@gmail.com    
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+&emsp;&emsp;&emsp;12/09/2020</span></div> 
+---
+
+# O que é viés?
+
+.pull-left[
+```{r echo=FALSE, fig.align = 'left'}
+
+knitr::include_graphics("https://i.pinimg.com/originals/93/d3/a5/93d3a533efdf1c80ba964d6fa89807c3.gif", dpi = 200)
+
+```
+]
+
+.pull-right[<span class="emphasized">&nbsp;O que não é um viés?&nbsp;</span>
+
+- A mente humana é repleta de estruturas criadas *socialmente*;
+
+- O conhecimento é passado e aprendido através de *comunicação*;
+
+- Tudo tem viés?]
+
+<div class="my-footer"><span>alissamunerato@gmail.com    
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+&emsp;&emsp;&emsp;12/09/2020</span></div> 
+---
+# O Viés do Observador
+
+Viés é sinônimo de tendência, orientação. Observador é quem conduz a pesquisa ou parte dela. Ou seja, <span class="emphasized">&nbsp;é a inclinação do pesquisador em direção a uma determinada conclusão.&nbsp;</span>
+
+.pull-left[
+```{r echo=FALSE, fig.align = 'left', out.width = "90%"}
+
+knitr::include_graphics("devaiwomen_files/Jastrow-illusion-track.jpg", dpi = 2000)
+
+```
+```{r echo=FALSE, fig.align = 'left', out.width = "90%"}
+
+knitr::include_graphics("https://www.spiria.com/site/assets/files/2024/containers-486570435_0.-large.jpg", dpi = 2000)
+
+```
+
+]
+
+.pull-right[<span class="emphasized">&nbsp;Heurística&nbsp;</span>
+
+- É um "atalho" cognitivo de modo a exigir menos processamento de informação no nosso cérebro. Ex.: Perímetro menor próximo do maior.
+
+- Ela é muito útil na IA para conseguirmos soluções rápidas, com base em conhecimento prévio. Ex.: Como desenvolver algoritmo de organização de conteiners sem inputs prévios?
+
+]
+
+
+<div class="my-footer"><span>alissamunerato@gmail.com    
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+&emsp;&emsp;&emsp;12/09/2020</span></div> 
+
+
+---
+
+# O Viés do Observador
+
+A heurística pode gerar viéses cognitivos. Na ciência isso se traduz no <span class="emphasized">&nbsp;Viés do Observador&nbsp;</span>. Segundo [Sacket(1979)](https://www.jameslindlibrary.org/wp-data/uploads/2014/06/Sackett-1979-whole-article.pdf) Ele acontece:
+
+#### • ao explorar o campo de estudo;
+#### • ao especificar e selecionar a amostra;
+#### • ao executar o experimento;
+#### • ao medir os resultados;
+#### • ao analisar os dados;
+#### • ao interpretar a análise;
+#### • ao publicar os resultados;
+    
+<div class="my-footer"><span>alissamunerato@gmail.com    
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+&emsp;&emsp;&emsp;12/09/2020</span></div> 
+
+---
+
+# Exemplos de viés
+
+
+```{r echo=FALSE, fig.align = 'center'}
+
+knitr::include_graphics("devaiwomen_files/crime_prediction.png", dpi = 200)
+
+```
+
+<div class="translation"><span>*O algoritmo K-means clustering foi utilizado para determinar os pontos de maior concentração de crime, e então 
+<br>foi feita uma regressão linear para prever os crimes nestes subgrupos de dados. (Tradução Livre)</span></div>
+
+
+
+<div class="my-footer"><span>alissamunerato@gmail.com    
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+&emsp;&emsp;&emsp;12/09/2020</span></div> 
+
+---
+
+# Exemplos de viés
+
+
+```{r echo=FALSE, fig.align = 'center'}
+
+knitr::include_graphics("devaiwomen_files/sex_differences.png", dpi = 200)
+
+```
+
+<div class="translation"><span>*O algoritmo K-means clustering foi utilizado para determinar os pontos de maior concentração de crime, e então 
+<br>foi feita uma regressão linear para prever os crimes nestes subgrupos de dados. (Tradução Livre)</span></div>
+
+<div class="my-footer"><span>alissamunerato@gmail.com    
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+&emsp;&emsp;&emsp;12/09/2020</span></div> 
+
+---
+
+Há diversos vieses cognitivos presentes em toda a ciência e é impossível escapar deles!
+
+Por outro lado, existem métodos que possibilitam a otimização do resultado.
+
+.pull-left[
+```{r echo=FALSE, out.width="70%"}
+
+knitr::include_graphics("https://specials-images.forbesimg.com/imageserve/5db05452a210800006f03c9a/960x0.jpg?fit=scale
+", dpi = 200)
+
+```
+- Falseamento de Popper
+]
+
+.pull-right[
+```{r echo=FALSE, fig.align = 'left', out.width="100%"}
+
+knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Metodo_cientifico.svg/1024px-Metodo_cientifico.svg.png
+", dpi = 200)
+
+```
+- Método Científico
+]
+
+<div class="my-footer"><span>alissamunerato@gmail.com    
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+&emsp;&emsp;&emsp;12/09/2020</span></div> 
+
+---
+
+# Exemplos na vida real
+
+<div class="my-footer"><span>alissamunerato@gmail.com    
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+&emsp;&emsp;&emsp;12/09/2020</span></div> 
+
+---
+
+# Prática no mercado
+
+<span class="emphasized">&nbsp;Vamos usar um dataset disponibilizado anonimamente no Kaggle:&nbsp;</span>
+
+- [projeto kaggle]("https://www.kaggle.com/loveall/clicks-conversion-tracking")
+
+```{r echo = FALSE, message = FALSE, cache=TRUE}
+library(kableExtra)
+library(tidyverse)
+conversionTable <- read.csv("devaiwomen_files/KAG_conversion_data.csv")
+colnames(conversionTable) <- c("id_anuncio", "id_campanha", "id_campanha_fb", "idade", "genero", "interesse", "impressoes", "cliques", "custo", "conversoes_totais", "conversoes_aprovadas")
+conversionTable %>%
+  head(n = 5) %>% 
+  kbl() %>%
+  kable_paper("hover", full_width = T, font_size = 10)
+```
+
+<small>
+
+.pull-left[
+- As * **campanhas** * são compostas por * **anúncios** * que são direcionados a usuários de específicas segmentações. Aqui estão representados * **faixa etária, gênero e interesse** *, o último sendo um código que representa interesses marcados pelo usuário no Facebook.
+]
+
+.pull-right[
+- As * **impressões**  * são quantas vezes um anúncio apareceu para o usuário, enquanto os * **cliques**  * medem o número de vezes em que ele foi clicado. As * **conversões totais**  * representam os engajamentos com o produto e as * **conversões aprovadas**  * contabilizam o número de compras.
+]
+
+
+
+</small>
+
+<div class="my-footer"><span>alissamunerato@gmail.com    
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+&emsp;&emsp;&emsp;12/09/2020</span></div> 
+
+---
+### Tratando de demografia
+
+```{r echo = FALSE, message = FALSE, fig.height=2.6, fig.width=9, dpi=90, fig.align = 'center'}
+library(tidyverse)
+p_conversionTable <- conversionTable %>% 
+  select(idade,genero, interesse,	impressoes,	cliques,	custo,	conversoes_totais,	conversoes_aprovadas) %>% 
+  pivot_longer(cols = impressoes:conversoes_aprovadas,names_to = "variables", values_to = "value")
+
+ggplot(p_conversionTable, aes(x = genero, y = value, color = genero, fill = genero)) +
+  geom_col() +
+  facet_wrap(variables ~ ., ncol=5,scale="free_y")
+
+ggplot(p_conversionTable, aes(x = idade, y = value, color = idade, fill = idade)) +
+  geom_col() +
+  facet_wrap(variables ~ ., ncol=5,scale="free_y")
+
+```
+
 
 <div class="my-footer"><span>alissamunerato@gmail.com    
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;

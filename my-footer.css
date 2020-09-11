@@ -13,3 +13,27 @@ div.my-footer span {
     left: 15px;
     bottom: 15px;
 }
+
+div.translation span {
+    font-size: 9pt;
+    font-family: 'Ropa Sans', italic;
+    color: #000000;
+    position: absolute;
+}
+
+.emphasized {
+   font-size: 1.2em;
+   background-color: #40e0d0;
+   color: #FFFFFF;
+   font-family: 'Ropa Sans';
+   font-weight: normal;
+}
+
+.pull-left {
+  float: left;
+  width: 47%;
+}
+.pull-right {
+  float: right;
+  width: 47%;
+}
